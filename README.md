@@ -126,7 +126,14 @@ service cloud.firestore {
 ![image](https://github.com/user-attachments/assets/861d8439-f788-42f6-97eb-aa0e2060d94c)
 ### Firebase Backend Dashboard
 ![image](https://github.com/user-attachments/assets/9cf908bd-ee1c-484d-a95a-a3ce2af69677)
+## 🛠️ Setup Instructions
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/RohanDobriyal/HealthCare_NFC.git
+cd HealthCare_NFC
+npm install
 
 
 
