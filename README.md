@@ -4,12 +4,12 @@ A modern healthcare web application that integrates **NFC cards** for patient id
 
 ##  Features
 
-- 🔐 Role-based Authentication (Patient, Doctor, Nurse)
-- 📇 NFC integration for patient identification
-- 📁 Document upload (e.g. CT scans, blood reports) by staff
-- 📄 Patient portal to view medical records
-- 🔄 Real-time updates using Firebase Realtime Database
-- ☁️ Secure file uploads via Firebase Storage
+- Role-based Authentication (Patient, Doctor, Nurse)
+- NFC integration for patient identification
+- Document upload (e.g. CT scans, blood reports) by staff
+- Patient portal to view medical records
+- Real-time updates using Firebase Realtime Database
+- Secure file uploads via Firebase Storage
 
 ##  Tech Stack
 
@@ -117,3 +117,17 @@ service cloud.firestore {
     ".write": "auth != null"
   }
 }
+```
+### Landing Page
+![image](https://github.com/user-attachments/assets/0418e551-44d1-4f50-93f2-6abe802c593f)
+### Doctor Portal
+![image](https://github.com/user-attachments/assets/510a29c1-cfca-4e97-a9ad-b771eec670eb)
+### Patient Portal
+![image](https://github.com/user-attachments/assets/861d8439-f788-42f6-97eb-aa0e2060d94c)
+### Firebase Backend Dashboard
+![image](https://github.com/user-attachments/assets/9cf908bd-ee1c-484d-a95a-a3ce2af69677)
+
+
+
+
+
